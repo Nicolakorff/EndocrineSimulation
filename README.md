@@ -39,32 +39,23 @@ The modulation operates **directly at the logit level**, prior to sampling, allo
 
 ## Repository Structure (in process)
 
-TFM-Endocrine-LLM/
-│
+EndocrineSimulation/
+
 ├── README.md
+
 ├── requirements.txt
-│
+
 ├── notebooks/
+
 │ └── TFM_Endocrine_LLM_Final.ipynb
-│
+
 ├── data/
+
 │ └── prompts/
-│ ├── creative_prompts.json
-│ ├── factual_prompts.json
-│ ├── empathetic_prompts.json
-│ ├── reasoning_prompts.json
-│ └── free_generation_prompts.json
-│
+
 ├── results/
-│ ├── raw/
-│ │ └── experiment_results.json
-│ ├── tables/
-│ │ └── *.tex
-│ └── figures/
-│ └── *.png
-│
+
 └── src/
-└── endocrine_llm/
 
 ---
 
