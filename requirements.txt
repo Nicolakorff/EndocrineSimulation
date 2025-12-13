@@ -1,0 +1,10 @@
+torch
+transformers
+numpy
+pandas
+scikit-learn
+nltk
+sentence-transformers
+statsmodels
+matplotlib
+seaborn
