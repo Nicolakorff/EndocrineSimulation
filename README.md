@@ -41,20 +41,13 @@ The modulation operates **directly at the logit level**, prior to sampling, allo
 
 EndocrineSimulation/
 
-├── README.md
-
-├── requirements.txt
-
-├── notebooks/
-
-│ └── TFM_Endocrine_LLM_Final.ipynb
-
-├── data/
-
-│ └── prompts/
-
-├── results/
-
+|- README.md
+|- requirements.txt
+|- notebooks/
+| └── TFM_Endocrine_LLM_Final.ipynb
+|- data/
+|- └── prompts/
+|-results/
 └── src/
 
 ---
