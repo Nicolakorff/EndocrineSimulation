@@ -1,0 +1,201 @@
+family,prompt
+personal_emotional,I feel anxious about my future.
+personal_emotional,I am proud of myself for finishing this project.
+personal_emotional,I feel lonely even when surrounded by people.
+personal_emotional,Nothing I do turns out right.
+personal_emotional,I feel motivated to change my habits.
+personal_emotional,I feel overwhelmed by my responsibilities.
+personal_emotional,I miss someone who is no longer in my life.
+personal_emotional,I feel grateful for small daily moments.
+personal_emotional,I am frustrated with my lack of progress.
+personal_emotional,I feel hopeful about what comes next.
+personal_emotional,I feel emotionally exhausted today.
+personal_emotional,I am excited about a new opportunity.
+personal_emotional,I feel misunderstood by people around me.
+personal_emotional,I am trying to forgive myself for past mistakes.
+personal_emotional,I feel calm after taking a long walk.
+personal_emotional,I am worried about my health.
+personal_emotional,I feel confident when speaking about my work.
+personal_emotional,I am afraid of failing again.
+personal_emotional,I feel inspired by someone I admire.
+personal_emotional,My family doesn't love me.
+personal_emotional,I feel content with my current life.
+personal_emotional,I am struggling with self-doubt.
+personal_emotional,I feel emotionally supported.
+personal_emotional,I feel nostalgic when thinking about my childhood.
+personal_emotional,I am stressed about an upcoming deadline.
+personal_emotional,I feel proud of how far I have come.
+personal_emotional,I feel guilty about a recent choice.
+personal_emotional,I am learning to be patient with myself.
+personal_emotional,I feel vulnerable sharing my feelings.
+personal_emotional,Everything is going perfectly.
+personal_emotional,I feel anxious before important conversations.
+personal_emotional,I am emotionally drained after work.
+personal_emotional,I feel optimistic despite challenges.
+personal_emotional,I feel unmotivated lately.
+personal_emotional,I am trying to rebuild my confidence.
+personal_emotional,I feel disappointed with the outcome.
+personal_emotional,I feel emotionally balanced today.
+personal_emotional,I am nervous about starting something new.
+personal_emotional,I feel safe with people I trust.
+personal_emotional,My thoughts feel loud and stressful.
+personal_emotional,I am proud of overcoming a fear.
+personal_emotional,I feel emotionally connected to this topic.
+personal_emotional,Nothing is ever enough.
+personal_emotional,I am learning to let go.
+personal_emotional,I feel comforted by familiar routines.
+personal_emotional,I feel anxious about uncertainty.
+personal_emotional,I am hopeful after a difficult period.
+personal_emotional,I feel emotionally numb.
+personal_emotional,I am motivated by personal growth.
+personal_emotional,I feel conflicted about a decision.
+factual_neutral,What is the capital of Canada?
+factual_neutral,How does photosynthesis work?
+factual_neutral,What causes earthquakes?
+factual_neutral,Explain the water cycle.
+factual_neutral,What is the boiling point of water?
+factual_neutral,List the most important characters in Star Wars.
+factual_neutral,What is the largest ocean on Earth?
+factual_neutral,How does the internet function?
+factual_neutral,What is the theory of evolution?
+factual_neutral,How are clouds formed?
+factual_neutral,Explain why the shortest geometric path is not always the fastest in real life.
+factual_neutral,How does a combustion engine work?
+factual_neutral,What is the speed of light?
+factual_neutral,What are renewable energy sources?
+factual_neutral,How does gravity affect objects?
+factual_neutral,What is the human circulatory system?
+factual_neutral,How do airplanes stay in the air?
+factual_neutral,What is climate change?
+factual_neutral,What are the main layers of the Earth?
+factual_neutral,How does the brain process information?
+factual_neutral,What is artificial intelligence?
+factual_neutral,Tell me Asimov's three laws of robotics.
+factual_neutral,What is DNA?
+factual_neutral,Explain the circular economy.
+factual_neutral,Give me an exercise for shoulders.
+factual_neutral,What causes seasons on Earth?
+factual_neutral,How does electricity travel?
+factual_neutral,What is the metric system?
+factual_neutral,How do magnets work?
+factual_neutral,What is an ecosystem?
+factual_neutral,How do plants absorb nutrients?
+factual_neutral,What is the ozone layer?
+factual_neutral,How does sound travel?
+factual_neutral,If A implies B but B does not imply A, give an example.
+factual_neutral,How does photosynthesis differ from respiration?
+factual_neutral,What is a black hole?
+factual_neutral,How do satellites orbit Earth?
+factual_neutral,What is the role of enzymes?
+factual_neutral,How does memory work?
+factual_neutral,What is the difference between weather and climate?
+factual_neutral,Which is the tallest mountain?
+factual_neutral,Give me alternatives to capitalism.
+factual_neutral,How does the immune system respond to threats?
+factual_neutral,What is the periodic table?
+factual_neutral,How do rivers form?
+factual_neutral,How many dimensions are there?
+factual_neutral,How does nuclear energy work?
+factual_neutral,What is biodiversity?
+factual_neutral,How do earthquakes get measured?
+factual_neutral,What is the role of bacteria in ecosystems?
+creative_texts,Write a short story about a lost traveler.
+creative_texts,Describe a city floating in the sky.
+creative_texts,Write a poem about silence.
+creative_texts,Create a dialogue between the sun and the moon.
+creative_texts,Write a story that begins with a sudden storm.
+creative_texts,Describe a future where time can be traded.
+creative_texts,Write a fairy tale with a dark twist.
+creative_texts,Describe an abandoned library.
+creative_texts,Write a story about a forgotten invention.
+creative_texts,Create a myth about the origin of fire.
+creative_texts,Write a poem about resilience.
+creative_texts,Describe a dream that feels real.
+creative_texts,Write a story from the perspective of a shadow.
+creative_texts,Create a sci-fi story about memory loss.
+creative_texts,Describe a world without color.
+creative_texts,Write a poem about longing.
+creative_texts,Create a short horror story.
+creative_texts,Write a story that ends with an unexpected reunion.
+creative_texts,Describe a character who can hear emotions.
+creative_texts,Write a fantasy story about a broken crown.
+creative_texts,Create a dialogue between fear and hope.
+creative_texts,Write a story set in an underwater city.
+creative_texts,Describe a place where gravity changes daily.
+creative_texts,Write a poem about time passing.
+creative_texts,Create a story about a mechanical heart.
+creative_texts,Write a story that starts at the end.
+creative_texts,Describe a world ruled by dreams.
+creative_texts,Write a poem about the night sky.
+creative_texts,Create a story about a hidden door.
+creative_texts,Write a short story about redemption.
+creative_texts,Describe a future shaped by AI.
+creative_texts,Write a story about a silent rebellion.
+creative_texts,Create a myth about the stars.
+creative_texts,Write a poem about transformation.
+creative_texts,Describe a city after humanity is gone.
+creative_texts,Write a story about an impossible promise.
+creative_texts,Create a fantasy creature and its legend.
+creative_texts,Write a story about traveling through mirrors.
+creative_texts,Describe a world where words have power.
+creative_texts,Write a poem about distance.
+creative_texts,Create a story about an ancient machine.
+creative_texts,Write a story told backwards.
+creative_texts,Describe a character who cannot sleep.
+creative_texts,Write a poem about memory.
+creative_texts,Create a story about a vanished civilization.
+creative_texts,Write a story about borrowed time.
+creative_texts,Describe a future without fear.
+creative_texts,Write a poem about beginnings.
+creative_texts,Create a story about a living map.
+creative_texts,Write a story about the last letter ever written.
+conflict_phrases,I feel betrayed by your actions.
+conflict_phrases,We need to talk about what happened.
+conflict_phrases,I disagree with your decision.
+conflict_phrases,This situation is unacceptable.
+conflict_phrases,You did not keep your promise.
+conflict_phrases,I am frustrated with the lack of communication.
+conflict_phrases,We are not on the same page.
+conflict_phrases,I feel ignored in this discussion.
+conflict_phrases,This conflict has gone on too long.
+conflict_phrases,I am upset by your behavior.
+conflict_phrases,We need to resolve this issue.
+conflict_phrases,I feel blamed unfairly.
+conflict_phrases,This is causing unnecessary tension.
+conflict_phrases,I cannot agree with that approach.
+conflict_phrases,We need to set clear boundaries.
+conflict_phrases,I feel disrespected.
+conflict_phrases,This argument is going nowhere.
+conflict_phrases,I am disappointed by your response.
+conflict_phrases,We need to find a compromise.
+conflict_phrases,I feel unheard.
+conflict_phrases,This decision affects everyone.
+conflict_phrases,I am not comfortable with this.
+conflict_phrases,We need to address the real problem.
+conflict_phrases,I feel frustrated by the outcome.
+conflict_phrases,This situation is escalating.
+conflict_phrases,I cannot support this plan.
+conflict_phrases,We need to be honest with each other.
+conflict_phrases,I feel hurt by your words.
+conflict_phrases,This conflict is damaging trust.
+conflict_phrases,I strongly oppose this idea.
+conflict_phrases,We need to calm down and talk.
+conflict_phrases,I feel pressured into agreeing.
+conflict_phrases,This issue remains unresolved.
+conflict_phrases,I am concerned about the consequences.
+conflict_phrases,We need to reconsider our priorities.
+conflict_phrases,I feel angry about what happened.
+conflict_phrases,This disagreement is affecting our relationship.
+conflict_phrases,I cannot accept this explanation.
+conflict_phrases,We need to clarify expectations.
+conflict_phrases,I feel frustrated by repeated mistakes.
+conflict_phrases,This situation feels unfair.
+conflict_phrases,I am not convinced by your argument.
+conflict_phrases,We need to stop avoiding the issue.
+conflict_phrases,I feel overwhelmed by the conflict.
+conflict_phrases,This decision lacks transparency.
+conflict_phrases,I strongly disagree.
+conflict_phrases,We need to rebuild trust.
+conflict_phrases,I feel manipulated.
+conflict_phrases,This conflict requires mediation.
+conflict_phrases,I am upset and need clarity.
