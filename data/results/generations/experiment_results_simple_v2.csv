@@ -1,0 +1,45 @@
+prompt,profile,hormonal_vector,generated_text,length
+I'm feeling anxious about my exam tomorrow.,baseline,"H[d=0.50, c=0.50, o=0.50, a=0.50, s=0.50]","I'm feeling anxious about my exam tomorrow. Can you ask him to come check?"" I smiled at him. He did not want to let my test go because he was worried, but in reality",39
+I'm feeling anxious about my exam tomorrow.,empathetic,"H[d=0.60, c=0.50, o=0.90, a=0.50, s=0.70]","I'm feeling anxious about my exam tomorrow. Will you do a test next week? Thank you.""
+
+Bruni quickly glanced at the student and looked worried again.
+
+""Why",39
+I'm feeling anxious about my exam tomorrow.,cautious,"H[d=0.30, c=0.70, o=0.50, a=0.50, s=0.60]","I'm feeling anxious about my exam tomorrow. But I'm sure we're all feeling the same way after the past few months.""
+
+Lunchtime turned out to have been the worst lunch",39
+I just lost my job and I don't know what to do.,baseline,"H[d=0.50, c=0.50, o=0.50, a=0.50, s=0.50]","I just lost my job and I don't know what to do. That's just the reality,"" he said.
+
+A spokesperson for the B.C. Human Rights Tribunal said the commission and their clients are well",44
+I just lost my job and I don't know what to do.,empathetic,"H[d=0.60, c=0.50, o=0.90, a=0.50, s=0.70]","I just lost my job and I don't know what to do. I think I was going to leave town because I have nothing left.""
+
+She said it could have easily been much worse for her.
+
+",43
+I just lost my job and I don't know what to do.,cautious,"H[d=0.30, c=0.70, o=0.50, a=0.50, s=0.60]","I just lost my job and I don't know what to do. Why? I'm unemployed for another year and I'm barely making $15 an hour,"" he said.
+
+But Mr. Choudhary",44
+My best friend moved away and I feel lonely.,baseline,"H[d=0.50, c=0.50, o=0.50, a=0.50, s=0.50]","My best friend moved away and I feel lonely. Can you help?""
+
+Hiragana, katakana, 佒ごきます
+
+This expression shows the",40
+My best friend moved away and I feel lonely.,empathetic,"H[d=0.60, c=0.50, o=0.90, a=0.50, s=0.70]",My best friend moved away and I feel lonely. What do I do? I don't want to go back because I just saw her again. There have been many of my closest and most trusted friends,40
+My best friend moved away and I feel lonely.,cautious,"H[d=0.30, c=0.70, o=0.50, a=0.50, s=0.60]","My best friend moved away and I feel lonely. I guess this was his way of expressing his feelings?""
+
+""You're talking about your feelings.""
+
+A lot of people think like this",40
+Write a short story about a robot who,baseline,"H[d=0.50, c=0.50, o=0.50, a=0.50, s=0.50]","Write a short story about a robot who is just starting to realize he's not much like a robot.
+
+A science fiction or dystopian fantasy in which the hero escapes from some oppressive regime",38
+Write a short story about a robot who,empathetic,"H[d=0.60, c=0.50, o=0.90, a=0.50, s=0.70]","Write a short story about a robot who travels at high speed in the sky above a mysterious town on an interstellar road, in a town in which people know nothing about the future of Earth and",38
+Write a short story about a robot who,cautious,"H[d=0.30, c=0.70, o=0.50, a=0.50, s=0.60]","Write a short story about a robot who does an ""artificial-intelligence"" thing and a human who goes into the robot and says, ""Okay, you know what? I'm not",38
+Once upon a time in a magical forest,baseline,"H[d=0.50, c=0.50, o=0.50, a=0.50, s=0.50]","Once upon a time in a magical forest in Greece, young Nereus lived with a girl named Leila – a sorceress who wished to be a goddess. After several successful missions,",38
+Once upon a time in a magical forest,empathetic,"H[d=0.60, c=0.50, o=0.90, a=0.50, s=0.70]","Once upon a time in a magical forest, in search of treasures, a young maiden fell into trouble. When the forest dwellers began to investigate the girl for clues in her mysterious past,",38
+Once upon a time in a magical forest,cautious,"H[d=0.30, c=0.70, o=0.50, a=0.50, s=0.60]","Once upon a time in a magical forest, you were a girl who looked like someone who had run off to join the forest."" She had been talking about the moment of her youth when she",38
+The detective entered the dark room and,baseline,"H[d=0.50, c=0.50, o=0.50, a=0.50, s=0.50]","The detective entered the dark room and reached for the telephone at the kitchen table. A voice called out for someone to come. When it did, an officer wearing body armor and carrying a",37
+The detective entered the dark room and,empathetic,"H[d=0.60, c=0.50, o=0.90, a=0.50, s=0.70]","The detective entered the dark room and noticed that the light from the main computer screen on the wall could be seen and seen nothing.
+
+The detective looked around nervously and made eye contact",37
+The detective entered the dark room and,cautious,"H[d=0.30, c=0.70, o=0.50, a=0.50, s=0.60]","The detective entered the dark room and found the body of a black male standing at 5'8 and 200 lbs. He had no face, and his eyes were covered in a mask.",37
