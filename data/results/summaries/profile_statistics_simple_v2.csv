@@ -1,0 +1,6 @@
+,distinct_1,distinct_1,distinct_2,distinct_2,sentiment_polarity,sentiment_polarity,sentiment_subjectivity,sentiment_subjectivity,repetition_rate,repetition_rate
+,mean,std,mean,std,mean,std,mean,std,mean,std
+profile,,,,,,,,,,
+baseline,0.89,0.066,1.0,0.0,-0.289,0.992,0.946,0.095,0.18,0.108
+cautious,0.856,0.029,1.0,0.0,-0.665,0.807,0.993,0.008,0.261,0.045
+empathetic,0.844,0.09,0.995,0.012,-0.653,0.73,0.931,0.074,0.241,0.135
